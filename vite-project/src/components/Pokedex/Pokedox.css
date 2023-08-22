@@ -1,0 +1,11 @@
+.pokedox-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+h1{
+    margin-left: 140px;
+    letter-spacing: 5px;
+}
