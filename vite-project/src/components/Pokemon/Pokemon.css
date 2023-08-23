@@ -1,0 +1,23 @@
+.Pokemon{
+    text-align: center;
+    /* border: 2px solid blue; */
+    display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   /* color: white; */
+   font-size: larger;
+   font-weight: 700;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image{
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+.name{
+    letter-spacing: 0.5rem;
+    margin-top: 33px;
+}
+.Pokemon:hover{
+    background-color: aquamarine;
+}
